@@ -1,0 +1,12 @@
+[submodule "taudio-waa"]
+	path = taudio-waa
+	url = git@github.com:Canardoux/taudio-waa.git
+[submodule "taudio-wrtc"]
+	path = taudio-wrtc
+	url = git@github.com:Canardoux/taudio-wrtc.git
+[submodule "taudio-edit"]
+	path = taudio-edit
+	url = git@github.com:Canardoux/taudio-edit.git
+[submodule "taudio-media"]
+	path = taudio-media
+	url = git@github.com:Canardoux/taudio-media.git
